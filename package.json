@@ -19,7 +19,9 @@
     "hubot-scripts": "~2.5.16",
     "hubot": "~2.12.0",
     "hubot-slack": "~3.3.0",
-    "htmlparser": "1.7.6"
+    "htmlparser": "1.7.6",
+    "underscore": ">= 1.0.0",
+    "clark": "0.0.6"
   },
   "engines": {
     "node": "0.10.x"
