@@ -3,5 +3,5 @@
 #
 module.exports = (robot) ->
 
-   robot.hear /hot\ ?box|cookie/i, (res) ->
+   robot.hear /hot\ ?box/i, (res) ->
      res.send "Cookies? If someone brought cookies, THE SNICKERDOODLES BELONG TO DONNA & MAEGAN! Just sayin'"
