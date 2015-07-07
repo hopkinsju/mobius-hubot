@@ -3,7 +3,7 @@
 #
 module.exports = (robot) ->
 
-   robot.hear /it's (/w*)'s turn/i, (res) ->
+   robot.hear /it\'s (/w*)\'s turn/i, (res) ->
      person = res.match[1].capitalize
      res.send "Did someone say it's #{person}'s turn?"
      res.send "I'll go see if I can find #{person} for you!"
