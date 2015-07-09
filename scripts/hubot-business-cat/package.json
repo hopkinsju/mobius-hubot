@@ -1,0 +1,62 @@
+{
+  "name": "hubot-business-cat",
+  "version": "1.1.19",
+  "description": "Hubot script that displays `business cat` images",
+  "main": "index.coffee",
+  "author": {
+    "name": "Morgan Wigmanich",
+    "email": "okize123@gmail.com",
+    "url": "https://github.com/okize"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "business",
+    "jargon",
+    "cat"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "script/test",
+    "start": "coffee ./test/server.coffee"
+  },
+  "homepage": "https://github.com/hubot-scripts/hubot-business-cat/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hubot-scripts/hubot-business-cat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hubot-scripts/hubot-business-cat/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.9.0"
+  },
+  "devDependencies": {
+    "mocha": "1.21.x",
+    "chai": "1.9.x",
+    "sinon-chai": "2.5.x",
+    "sinon": "1.10.x"
+  },
+  "gitHead": "3fbc6d7550c9ef35232a72a2ff28b69124ba3e19",
+  "_id": "hubot-business-cat@1.1.19",
+  "_shasum": "3e8f597b031de40e6971d778136e000390d564a5",
+  "_from": "hubot-business-cat@*",
+  "_npmVersion": "2.7.5",
+  "_nodeVersion": "0.10.36",
+  "_npmUser": {
+    "name": "okize",
+    "email": "okize123@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "okize",
+      "email": "okize123@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "3e8f597b031de40e6971d778136e000390d564a5",
+    "tarball": "http://registry.npmjs.org/hubot-business-cat/-/hubot-business-cat-1.1.19.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/hubot-business-cat/-/hubot-business-cat-1.1.19.tgz"
+}
