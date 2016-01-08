@@ -15,5 +15,6 @@
   "hubot-explainshell",
   "hubot-plusplus",
   "hubot-zendesk",
-	"hubot-ascii"
+	"hubot-ascii",
+  "hubot-catfacts"
 ]
